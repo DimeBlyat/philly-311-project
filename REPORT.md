@@ -1,11 +1,6 @@
 # Philadelphia 311: Factors Affecting Abandoned Vehicle Resolution Time
 
-*[Your name] — [Course] — [Date]*
-
-> This draft is filled in with real results from the actual notebook runs. Replace
-> `[your name]`/`[date]`/`[course]` above, review every section for accuracy against
-> your own final notebook outputs, and add the two items marked **TODO** below before
-> submitting.
+Dimitar Geshtakovski 225053 — Data Mining — 01.09.2026
 
 ## 1. Research Question
 
@@ -236,7 +231,7 @@ fully corrected for.
 Claude (Anthropic) was used to scaffold the data-pull, cleaning, EDA, and
 modeling code across all four notebooks, and to help debug several issues
 (CARTO API authentication, a scikit-learn encoding bug, zip code format
-inconsistencies). All code was run against the real dataset by [your name]; every
+inconsistencies). All code was run against the real dataset by me (Dimitar); every
 number in this report comes from an actual notebook run. Interpretation of
 results, the choice of subset and modeling decisions, and this report's
-conclusions were reviewed and made by [your name].
+conclusions were reviewed and made by me (Dimitar).
